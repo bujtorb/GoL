@@ -3,7 +3,7 @@
 
 Game of Life with Babel + Webpack +es6.
 
-Need to optimize, as it is slow with 1000*1000 map size. Works fine with smaller canvas size.
+Need to optimalize, as it is slow with 1000*1000 map size. Works fine with smaller canvas size.
 
 npm i\
 npm run-script build\
