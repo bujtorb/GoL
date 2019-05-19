@@ -1,0 +1,10 @@
+p {
+    display: inline-block;
+    margin: 10px 0;
+    margin-left: 10px;
+  }
+  
+  canvas {
+    border: 1px solid red;
+  }
+
